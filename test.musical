@@ -1,0 +1,19 @@
+bpm: 60
+
+@main
+octave: 3
+
+A 1/4
+
+goto main_1
+@main_1
+
+Cas 1/4
+Eas 1/4
+
+goto final_chord
+@final_chord
+
+A Cas Eas 1/2
+
+repeat final_chord 1
